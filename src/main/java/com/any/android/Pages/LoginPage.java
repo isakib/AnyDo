@@ -3,7 +3,6 @@ package com.any.android.Pages;
 import io.appium.java_client.AppiumDriver;
 import io.appium.java_client.pagefactory.AndroidFindBy;
 import io.appium.java_client.pagefactory.AppiumFieldDecorator;
-import org.apache.xmlbeans.impl.xb.xsdschema.Public;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -31,14 +30,11 @@ public class LoginPage {
     @AndroidFindBy(xpath = "//android.widget.EditText[@text='Password']")
     public WebElement  user_password;
 
-//    @AndroidFindBy(id = "no.busgroup.teq:id/et_login_password")
-//    public WebElement  user_password;
-
     @AndroidFindBy(xpath = "//android.widget.Button[@text='SIGN IN']")
     public WebElement  signInn;
 
 
-    public void LoginCheck(AppiumDriver driver)throws MalformedURLException, InterruptedException{
+    public void LoginToSystem(AppiumDriver driver)throws MalformedURLException, InterruptedException{
 
         sleep(2000);
         click_to_continue.click();
@@ -48,7 +44,7 @@ public class LoginPage {
         sleep(2000);
         move_next_click.click();
         sleep(2000);
-        user_password.sendKeys("--");
+        user_password.sendKeys("759759@#");
         driver.hideKeyboard();
         sleep(2000);
         signInn.click();

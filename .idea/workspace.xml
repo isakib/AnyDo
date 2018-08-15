@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1fcf552b-01f8-47d5-8963-e045c8a2819c" name="Default" comment="" />
+    <list default="true" id="1fcf552b-01f8-47d5-8963-e045c8a2819c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_cli_commons_cli_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_discovery_commons_discovery_20030211_213356.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jelly_commons_jelly_1_0_RC2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jelly_commons_jelly_tags_jsl_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jelly_commons_jelly_tags_junit_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jelly_commons_jelly_tags_xml_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_jexl_commons_jexl_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__forehead_forehead_1_0_beta_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxen_jaxen_1_1_beta_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__maven_maven_junit_report_plugin_1_5_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xalan_xalan_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xerces_xercesImpl_2_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/any/android/Pages/CreateTodayTaskPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/any/android/tests/AddListPageTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/any/android/tests/CreateTaskTodayTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AnyDo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AnyDo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/any/android/Pages/AddInTheList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/any/android/Pages/AddListPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/any/android/Pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/any/android/Pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/any/android/Pages/SignOutPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/any/android/Pages/SignOutPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/any/android/Utilities/AppInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/any/android/Utilities/AppInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/any/android/tests/LoginTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/any/android/tests/LoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/any/android/Pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/any/android/Pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/any/android/Pages/SignOutPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/any/android/Pages/SignOutPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/any/android/Utilities/AppInitializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/any/android/Utilities/AppInitializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/any/android/tests/LoginTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/any/android/tests/LoginTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/any/android/tests/SignOutTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/any/android/tests/SignOutTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -11,13 +43,14 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportTestResults" outputFolder="$PROJECT_DIR$" userTempatePath="" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LoginPage.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/LoginPage.java">
+      <file leaf-file-name="AddListPageTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/any/android/tests/AddListPageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="371">
-              <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+            <state relative-caret-position="80">
+              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -48,6 +81,9 @@
       <dir>$PROJECT_DIR$</dir>
     </dirStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -69,20 +105,27 @@
         <option value="$PROJECT_DIR$/src/main/java/no/busgroup/teq/android/Utilities/AppInitializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/no/busgroup/teq/android/Pages/LoginPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/any/android/Features/login.feature" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/any/android/tests/SignOut.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/any/android/tests/SignOutTest" />
         <option value="$PROJECT_DIR$/src/main/java/com/any/android/StepDefinition/LoginStep.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/any/android/StepDefinition/SignOut.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/any/android/Pages/SignOutPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/any/android/Utilities/PropertyHandler.java" />
         <option value="$PROJECT_DIR$/config.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/any/android/Utilities/AppInitializer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/any/android/tests/LoginTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/any/android/Pages/List/AddInTheList.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/any/android/Pages/AddInTheList.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/any/android/tests/SignOutTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/any/android/tests/AddInTheListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/any/android/Pages/AddInTheListPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/any/android/tests/LoginTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/any/android/Pages/AddListPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/any/android/Pages/SignOutPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/any/android/Pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/any/android/Utilities/AppInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/any/android/Pages/CreateTaskTodayPage.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/any/android/tests/CreateTaskTodayTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/any/android/Pages/CreateTodayTaskPage.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/any/android/tests/AddListPageTest.java" />
       </list>
     </option>
   </component>
@@ -102,41 +145,25 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1920" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="AnyDo" type="b2602c69:ProjectViewProjectNode" />
               <item name="AnyDo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AnyDo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AnyDo" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AnyDo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AnyDo" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Android" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AnyDo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AnyDo" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="iOS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AnyDo" type="b2602c69:ProjectViewProjectNode" />
@@ -208,7 +235,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,8 +243,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4827586" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -240,42 +268,119 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.LoginTest (1)">
+  <component name="RunManager" selected="JUnit.AddListPageTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="Scenario: Successful login with Valid Credentials" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/java/com/any/android/Features/login.feature" />
-      <option name="GLUE" value="com.any.android.StepDefinition" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
-      <module name="AnyDo" />
-      <option name="NAME_FILTER" value="^Successful login with Valid Credentials$" />
-      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Successful login with Valid Credentials$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Successful login with Valid Credentials" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AddListPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AnyDo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="no.busgroup.teq.android.tests.*" />
+          <option name="PATTERN" value="com.any.android.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="no.busgroup.teq.android.tests" />
-      <option name="MAIN_CLASS_NAME" value="no.busgroup.teq.android.tests.LoginTest" />
+      <option name="PACKAGE_NAME" value="com.any.android.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.any.android.tests.AddListPageTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="AddListPageTest.AddListPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AnyDo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.any.android.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.any.android.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.any.android.tests.AddListPageTest" />
+      <option name="METHOD_NAME" value="AddListPageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CreateTaskTodayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AnyDo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.any.android.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.any.android.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.any.android.tests.CreateTaskTodayTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CreateTaskTodayTest.CreateTaskTodayAction" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AnyDo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.any.android.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.any.android.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.any.android.tests.CreateTaskTodayTest" />
+      <option name="METHOD_NAME" value="CreateTaskTodayAction" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CreateTaskTodayTest.CreateTodayTaskTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AnyDo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.any.android.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.any.android.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.any.android.tests.CreateTaskTodayTest" />
+      <option name="METHOD_NAME" value="CreateTodayTaskTest" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -297,52 +402,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.any.android.tests" />
       <option name="MAIN_CLASS_NAME" value="com.any.android.tests.LoginTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="LoginTest.LoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AnyDo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="no.busgroup.teq.android.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="no.busgroup.teq.android.tests" />
-      <option name="MAIN_CLASS_NAME" value="no.busgroup.teq.android.tests.LoginTest" />
-      <option name="METHOD_NAME" value="LoginTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="SignOutTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AnyDo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.any.android.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.any.android.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.any.android.tests.SignOutTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -533,19 +592,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="JUnit.LoginTest.LoginTest" />
-      <item itemvalue="JUnit.LoginTest" />
-      <item itemvalue="JUnit.LoginTest (1)" />
-      <item itemvalue="Cucumber java.Scenario: Successful login with Valid Credentials" />
-      <item itemvalue="JUnit.SignOutTest" />
+      <item itemvalue="JUnit.AddListPageTest" />
+      <item itemvalue="JUnit.AddListPageTest.AddListPageTest" />
+      <item itemvalue="JUnit.CreateTaskTodayTest" />
+      <item itemvalue="JUnit.CreateTaskTodayTest.CreateTaskTodayAction" />
+      <item itemvalue="JUnit.CreateTaskTodayTest.CreateTodayTaskTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.LoginTest (1)" />
-        <item itemvalue="JUnit.SignOutTest" />
-        <item itemvalue="Cucumber java.Scenario: Successful login with Valid Credentials" />
-        <item itemvalue="JUnit.LoginTest.LoginTest" />
-        <item itemvalue="JUnit.LoginTest" />
+        <item itemvalue="JUnit.AddListPageTest" />
+        <item itemvalue="JUnit.CreateTaskTodayTest" />
+        <item itemvalue="JUnit.CreateTaskTodayTest.CreateTodayTaskTest" />
+        <item itemvalue="JUnit.CreateTaskTodayTest.CreateTaskTodayAction" />
+        <item itemvalue="JUnit.AddListPageTest.AddListPageTest" />
       </list>
     </recent_temporary>
   </component>
@@ -578,65 +637,70 @@
       <workItem from="1533794420479" duration="425000" />
       <workItem from="1534062869453" duration="1609000" />
       <workItem from="1534064541941" duration="687000" />
-      <workItem from="1534065309710" duration="9463000" />
+      <workItem from="1534065309710" duration="11879000" />
+      <workItem from="1534136656659" duration="50000" />
+      <workItem from="1534136781724" duration="2776000" />
+      <workItem from="1534245517120" duration="48000" />
+      <workItem from="1534253880121" duration="23106000" />
+      <workItem from="1534331968794" duration="4627000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="LoginTest - 2018.08.12 at 15h 55m 50s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="CreateTaskTodayTest_CreateTodayTaskTest - 2018.08.15 at 17h 53m 54s.xml">
+      <configuration name="CreateTaskTodayTest.CreateTodayTaskTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.08.12 at 16h 24m 10s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="CreateTaskTodayTest_CreateTodayTaskTest - 2018.08.15 at 17h 59m 37s.xml">
+      <configuration name="CreateTaskTodayTest.CreateTodayTaskTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.08.12 at 16h 30m 27s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="CreateTaskTodayTest_CreateTodayTaskTest - 2018.08.15 at 18h 02m 01s.xml">
+      <configuration name="CreateTaskTodayTest.CreateTodayTaskTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.08.12 at 16h 32m 47s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="CreateTaskTodayTest - 2018.08.15 at 18h 04m 03s.xml">
+      <configuration name="CreateTaskTodayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.08.12 at 16h 33m 39s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="CreateTaskTodayTest_CreateTodayTaskTest - 2018.08.15 at 18h 11m 21s.xml">
+      <configuration name="CreateTaskTodayTest.CreateTodayTaskTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.08.12 at 16h 37m 03s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="CreateTaskTodayTest - 2018.08.15 at 18h 13m 14s.xml">
+      <configuration name="CreateTaskTodayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.08.12 at 16h 37m 17s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="CreateTaskTodayTest - 2018.08.15 at 18h 20m 39s.xml">
+      <configuration name="CreateTaskTodayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.08.12 at 16h 37m 57s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="CreateTaskTodayTest - 2018.08.15 at 18h 21m 35s.xml">
+      <configuration name="CreateTaskTodayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.08.12 at 16h 41m 28s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="CreateTaskTodayTest - 2018.08.15 at 18h 23m 28s.xml">
+      <configuration name="CreateTaskTodayTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LoginTest - 2018.08.12 at 16h 42m 32s.xml">
-      <configuration name="LoginTest" configurationId="JUnit" />
+    <history-entry file="AddListPageTest - 2018.08.15 at 19h 07m 07s.xml">
+      <configuration name="AddListPageTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50689000" />
+    <option name="totallyTimeSpent" value="83712000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="23" width="1920" height="1057" extended-state="0" />
+    <frame x="-1920" y="23" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3224822" />
+      <window_info anchor="bottom" id="Messages" order="7" sideWeight="0.4828125" weight="0.3214649" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.121875" side_tool="true" weight="0.46388605" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2024415" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32756868" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.878125" visible="true" weight="0.31841302" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4984375" weight="0.27738264" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14166667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1625" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -645,43 +709,46 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="Nl-Palette" order="2" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Properties" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49921876" weight="0.32859176" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.34139404" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.878125" visible="true" weight="0.46388605" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
       <window_info anchor="right" id="Properties" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3281493" />
-      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.4984375" weight="0.27738264" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Messages" order="9" visible="true" weight="0.3257468" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.121875" side_tool="true" visible="true" weight="0.46388605" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4828125" weight="0.3214649" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.11171875" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info id="Nl-Palette" order="7" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14166667" />
       <window_info anchor="right" id="Database" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39968896" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49921876" weight="0.32859176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39829302" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -692,7 +759,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -700,85 +767,8 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/StartupPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="47" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/StartupPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="26" column="37" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/any/android/tests/LoginTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Features/login.feature" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/StepDefinition/LoginStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="20" column="43" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/StepDefinition/LoginStep.java" />
     <entry file="file://$PROJECT_DIR$/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -804,9 +794,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="37" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -821,9 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -859,9 +843,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -876,9 +857,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -921,9 +899,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -952,9 +927,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -969,71 +941,66 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/4.0.0/java-client-4.0.0.jar!/io/appium/java_client/DefaultGenericMobileDriver.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="123" column="19" selection-start-line="123" selection-start-column="9" selection-end-line="123" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/4.0.0/java-client-4.0.0.jar!/io/appium/java_client/DefaultGenericMobileDriver.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Features/login.feature" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/any/android/tests/SignOutTest" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/StepDefinition/SignOut.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/StepDefinition/LoginStep.java" />
+    <entry file="file://$PROJECT_DIR$/app/Android/com.anydo.apk" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.53.0/selenium-api-2.53.0-sources.jar!/org/openqa/selenium/Keys.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/any/android/tests/SignOutTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="925">
-          <caret line="80" lean-forward="true" selection-start-line="80" selection-end-line="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/StepDefinition/SignOut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/StepDefinition/LoginStep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-199">
-          <caret line="19" column="24" selection-end-line="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Android/com.anydo.apk">
-      <provider selected="true" editor-type-id="apk-viewer" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Utilities/AppInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="161">
+          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Utilities/PropertyHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
+        <state relative-caret-position="270">
           <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/io/appium/java-client/4.0.0/java-client-4.0.0-sources.jar!/io/appium/java_client/DefaultGenericMobileDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" lean-forward="true" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/any/android/tests/SignOutTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="30" column="32" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.53.0/selenium-remote-driver-2.53.0-sources.jar!/org/openqa/selenium/remote/RemoteWebDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2">
+          <caret line="651" column="39" selection-start-line="651" selection-start-column="39" selection-end-line="651" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/AddListPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="23" column="7" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1048,47 +1015,47 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Utilities/AppInitializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="282">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/any/android/tests/LoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="22" />
+        <state relative-caret-position="150">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/CreateTaskTodayPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test Results - CreateTaskTodayTest.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/SignOutPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="424">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/AddInTheList.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/CreateTodayTaskPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="68" lean-forward="true" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/any/android/tests/SignOutTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+        <state relative-caret-position="375">
+          <caret line="25" column="37" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1097,8 +1064,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/any/android/Pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="50" column="34" selection-start-line="50" selection-start-column="34" selection-end-line="50" selection-end-column="34" />
+        <state relative-caret-position="15">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="35" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/any/android/tests/CreateTaskTodayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/any/android/tests/AddListPageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1157,11 +1151,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>ShohozAndroidAutomation</last-edited>
+          <last-edited>AnyDo</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.4827586" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

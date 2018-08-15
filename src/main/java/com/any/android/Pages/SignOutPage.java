@@ -4,7 +4,9 @@ import com.any.android.Utilities.AppInitializer;
 import cucumber.annotation.After;
 import cucumber.annotation.Before;
 import io.appium.java_client.AppiumDriver;
+import io.appium.java_client.pagefactory.AppiumFieldDecorator;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.PageFactory;
 
 import java.net.MalformedURLException;
 
@@ -12,22 +14,14 @@ import static java.lang.Thread.sleep;
 
 public class SignOutPage {
 
-    public SignOutPage(AppiumDriver driver) {
+    public SignOutPage(AppiumDriver<WebElement> driver){
+        PageFactory.initElements(new AppiumFieldDecorator(driver),this);
     }
 
-    @Before
-    public void setup ()throws MalformedURLException, InterruptedException{
-        AppInitializer app =new AppInitializer();
-        driver = app.getAndroidDriver();
-
-    }
-
-    AppiumDriver driver;
-
-    public void Ignore_Not_Now_call() throws Throwable {
+    public void SkipDefaultNow(AppiumDriver driver) throws MalformedURLException, InterruptedException {
         Thread.sleep(3000);
 
-        WebElement not_now_click_ignore = driver.findElementByXPath("//android.widget.TextView[@text='Not now']");
+        WebElement not_now_click_ignore = driver.findElementByXPath("//android.widget.Button[@text='Not now']");
         not_now_click_ignore.click();
 
         Thread.sleep(3000);
@@ -38,8 +32,9 @@ public class SignOutPage {
         Thread.sleep(3000);
     }
 
-    public void Select_settings_nav() throws Throwable {
+    public void SelectToNavigateAndSignout(AppiumDriver driver) throws MalformedURLException, InterruptedException {
         Thread.sleep(3000);
+
 
         WebElement click_to_settings_nav = driver.findElementByXPath("//android.widget.TextView[@text='Settings']");
         click_to_settings_nav.click();
@@ -47,11 +42,6 @@ public class SignOutPage {
         WebElement click_to_profile = driver.findElementByXPath("//android.widget.TextView[@text='Profile']");
         click_to_profile.click();
 
-        Thread.sleep(3000);
-
-    }
-
-    public void Click_To_Singout() throws Throwable {
         Thread.sleep(3000);
 
         WebElement click_to_signout_text = driver.findElementByXPath("//android.widget.TextView[@text='Sign Out']");
@@ -72,6 +62,4 @@ public class SignOutPage {
 
     }
 
-    @After
-    public void tearDown(){driver.quit();}
 }

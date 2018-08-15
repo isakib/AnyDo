@@ -35,7 +35,7 @@ public class LoginTest {
     @Test
     public void LoginTest() throws MalformedURLException, InterruptedException{
 
-        loginPage.LoginCheck(driver);
+        loginPage.LoginToSystem(driver);
 
     }
 
