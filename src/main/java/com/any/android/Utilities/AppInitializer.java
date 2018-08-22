@@ -45,7 +45,7 @@ public class AppInitializer {
                 capabilities.setCapability("app", app);
 
                 capabilities.setCapability("fullReset","true");
-//                capabilities.setCapability("clearSystemFiles", "true");
+                capabilities.setCapability("clearSystemFiles", "true");
 
                 capabilities.setCapability("appPackage",propertyHandler.getPropertyValue("appPackageAndroid"));
                 capabilities.setCapability("appActivity",propertyHandler.getPropertyValue("appActivityAndroid"));
@@ -73,7 +73,7 @@ public class AppInitializer {
         AppiumDriver driver = null;
 
         try {
-            driver = new AndroidDriver(new URL("http://0.0.0.0:4725/wd/hub"), this.getCapability());
+            driver = new AndroidDriver(new URL("http://0.0.0.0:4723/wd/hub"), this.getCapability());
         } catch (MalformedURLException e) {
             e.printStackTrace();
         }
