@@ -13,10 +13,6 @@ import java.net.MalformedURLException;
 
 import static org.junit.Assert.assertArrayEquals;
 
-/**
- * Created by Naser on 4/28/2017.
- */
-
 public class LoginTest {
 
     AppiumDriver   driver;

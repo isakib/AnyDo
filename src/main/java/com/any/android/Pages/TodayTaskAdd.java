@@ -54,7 +54,7 @@ public class TodayTaskAdd {
         sleep(5000);
         save_the_call_reminder.click();
         sleep(5000);
-//        driver.swipe(63,336,63, 1226, 3000);
+        driver.swipe(63,336,63, 1226, 3000);
         sleep(2000);
     }
 
